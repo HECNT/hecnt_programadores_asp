@@ -26,5 +26,12 @@ namespace prueba_1.Controllers
 
             return View();
         }
+
+        public JsonResult setNuevo()
+        {
+
+            int res = 1;
+            return Json(res, JsonRequestBehavior.AllowGet);
+        }
     }
 }
