@@ -1,0 +1,148 @@
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\prueba_1.dll.config
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\prueba_1.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\prueba_1.pdb
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\Antlr3.Runtime.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\EntityFramework.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\EntityFramework.SqlServer.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\Microsoft.Owin.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\Microsoft.Owin.Security.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\Microsoft.Owin.Security.Google.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\Microsoft.Web.Infrastructure.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\Newtonsoft.Json.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\Owin.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\System.Web.Helpers.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\System.Web.Mvc.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\System.Web.Optimization.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\System.Web.Razor.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\System.Web.WebPages.Deployment.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\System.Web.WebPages.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\System.Web.WebPages.Razor.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\WebGrease.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\System.Web.Helpers.xml
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\System.Web.Mvc.xml
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\System.Web.Optimization.xml
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\System.Web.Razor.xml
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\System.Web.WebPages.xml
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\System.Web.WebPages.Deployment.xml
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\System.Web.WebPages.Razor.xml
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\Newtonsoft.Json.xml
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\Antlr3.Runtime.pdb
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\EntityFramework.xml
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\EntityFramework.SqlServer.xml
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\Microsoft.Owin.xml
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\Microsoft.Owin.Security.xml
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\Microsoft.Owin.Security.Google.xml
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\es\System.Web.Helpers.resources.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\es\System.Web.Mvc.resources.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\es\System.Web.Optimization.resources.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\es\System.Web.Razor.resources.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\es\System.Web.WebPages.resources.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\es\EntityFramework.resources.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\es\EntityFramework.SqlServer.resources.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\es\Microsoft.Owin.resources.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\es\Microsoft.Owin.Security.resources.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\es\Microsoft.Owin.Security.Google.resources.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\obj\Debug\prueba_1.csprojResolveAssemblyReference.cache
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\obj\Debug\prueba_1.dll
+c:\users\osvaldo\documents\visual studio 2013\Projects\prueba_1\prueba_1\obj\Debug\prueba_1.pdb
+F:\asp\hecnt_programadores_asp\prueba_1\bin\prueba_1.dll.config
+F:\asp\hecnt_programadores_asp\prueba_1\bin\prueba_1.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\prueba_1.pdb
+F:\asp\hecnt_programadores_asp\prueba_1\bin\Antlr3.Runtime.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\EntityFramework.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\EntityFramework.SqlServer.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\Microsoft.AspNet.Identity.Core.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\Microsoft.Owin.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\Microsoft.Owin.Security.Cookies.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\Microsoft.Owin.Security.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\Microsoft.Owin.Security.Facebook.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\Microsoft.Owin.Security.Google.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\Microsoft.Owin.Security.OAuth.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\Microsoft.Owin.Security.Twitter.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\Microsoft.Web.Infrastructure.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\Newtonsoft.Json.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\Owin.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\System.Web.Helpers.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\System.Web.Mvc.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\System.Web.Optimization.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\System.Web.Razor.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\System.Web.WebPages.Deployment.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\System.Web.WebPages.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\System.Web.WebPages.Razor.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\WebGrease.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\System.Web.Helpers.xml
+F:\asp\hecnt_programadores_asp\prueba_1\bin\System.Web.Mvc.xml
+F:\asp\hecnt_programadores_asp\prueba_1\bin\System.Web.Optimization.xml
+F:\asp\hecnt_programadores_asp\prueba_1\bin\System.Web.Razor.xml
+F:\asp\hecnt_programadores_asp\prueba_1\bin\System.Web.WebPages.xml
+F:\asp\hecnt_programadores_asp\prueba_1\bin\System.Web.WebPages.Deployment.xml
+F:\asp\hecnt_programadores_asp\prueba_1\bin\System.Web.WebPages.Razor.xml
+F:\asp\hecnt_programadores_asp\prueba_1\bin\Newtonsoft.Json.xml
+F:\asp\hecnt_programadores_asp\prueba_1\bin\Antlr3.Runtime.pdb
+F:\asp\hecnt_programadores_asp\prueba_1\bin\EntityFramework.xml
+F:\asp\hecnt_programadores_asp\prueba_1\bin\EntityFramework.SqlServer.xml
+F:\asp\hecnt_programadores_asp\prueba_1\bin\Microsoft.AspNet.Identity.Core.xml
+F:\asp\hecnt_programadores_asp\prueba_1\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\asp\hecnt_programadores_asp\prueba_1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\asp\hecnt_programadores_asp\prueba_1\bin\Microsoft.Owin.xml
+F:\asp\hecnt_programadores_asp\prueba_1\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\asp\hecnt_programadores_asp\prueba_1\bin\Microsoft.Owin.Security.xml
+F:\asp\hecnt_programadores_asp\prueba_1\bin\Microsoft.Owin.Security.Facebook.xml
+F:\asp\hecnt_programadores_asp\prueba_1\bin\Microsoft.Owin.Security.Cookies.xml
+F:\asp\hecnt_programadores_asp\prueba_1\bin\Microsoft.Owin.Security.OAuth.xml
+F:\asp\hecnt_programadores_asp\prueba_1\bin\Microsoft.Owin.Security.Google.xml
+F:\asp\hecnt_programadores_asp\prueba_1\bin\Microsoft.Owin.Security.Twitter.xml
+F:\asp\hecnt_programadores_asp\prueba_1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\asp\hecnt_programadores_asp\prueba_1\bin\es\System.Web.Helpers.resources.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\es\System.Web.Mvc.resources.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\es\System.Web.Optimization.resources.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\es\System.Web.Razor.resources.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\es\System.Web.WebPages.resources.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\es\EntityFramework.resources.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\es\EntityFramework.SqlServer.resources.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\es\Microsoft.Owin.resources.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\es\Microsoft.Owin.Security.resources.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\es\Microsoft.Owin.Security.Google.resources.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+F:\asp\hecnt_programadores_asp\prueba_1\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+F:\asp\hecnt_programadores_asp\prueba_1\obj\Debug\prueba_1.csprojResolveAssemblyReference.cache
+F:\asp\hecnt_programadores_asp\prueba_1\obj\Debug\prueba_1.dll
+F:\asp\hecnt_programadores_asp\prueba_1\obj\Debug\prueba_1.pdb
