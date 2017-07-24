@@ -1,35 +1,28 @@
-﻿@{
+﻿@model prueba_1.Models.EmployeeViewModel
+
+@{
     ViewBag.Title = "Home Page";
 }
 <div ng-controller="homeCtrl">
-    <div class="jumbotron">
-        <h1>Agenda de programadores</h1>
-        <h4>Version 1 <br /> ASP MVC 4 y SQL SERVER EXPRESS</h4>
-    </div>
-
-    <div class="row">
-        <div class="col-md-4">
-            <h2>Node JS</h2>
-            <p>
-                Node.js es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor (pero no limitándose a ello) basado en el lenguaje de programación ECMAScript, asíncrono, con I/O de datos en una arquitectura orientada a eventos y basado en el motor V8 de Google.
-            </p>
-            <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301865">Ver programadores &raquo;</a></p>
-        </div>
-        <div class="col-md-4">
-            <h2>ASP</h2>
-            <p>
-                El ASP.NET MVC Framework es un framework de aplicaciones web que implementa el patrón modelo-vista-controlador (MVC).
-
-                Basado en ASP.NET, permite a los desarrolladores de software construir una aplicación web como una composición de tres funciones: modelo, vista y controlador.
-            </p>
-            <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301866">Ver programadores &raquo;</a></p>
-        </div>
-        <div class="col-md-4">
-            <h2>Todos los lenguajes</h2>
-            <p>
-                Java, C, C++, C#, Python, Objective-C, PHP, Visual Basic, JavaScript y Perl
-            </p>
-            <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301867">Ver programadores &raquo;</a></p>
-        </div>
-    </div>
+    <h1>CRUD agenda programadores HECNT</h1><hr />
+    <table class="table table-hover">
+        <thead>
+            <th>ID</th>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Age</th>
+            <th>:D</th>
+        </thead>
+        <tbody>
+            <tr ng-repeat="r_person in dataInit">
+                <td>{{r_person.ID}}</td>
+                <td>{{r_person.FirstName}}</td>
+                <td>{{r_person.LastName}}</td>
+                <td>{{r_person.Age}}</td>
+                <td>
+                    <button class="btn btn-info" ng-click="btnEdit(r_person)">Edit</button>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </div>
