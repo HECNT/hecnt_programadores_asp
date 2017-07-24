@@ -3,11 +3,6 @@
 app.controller('homeCtrl', function ($scope, $http) {
     $scope.test = "Hola";
 
-    $http.get('/Home/setNuevo')
-    .then(function(result){
-      console.log(result,'aqui result')
-    })
-
     $http.get('/Home/init')
     .then(function (result) {
       $scope.dataInit = result.data
@@ -27,6 +22,21 @@ app.controller('homeCtrl', function ($scope, $http) {
             $scope.s_developer = arr
         })
     }
+
+    $scope.show_edit = true
+    $scope.btnEditShow = function () {
+        $scope.show_edit = false
+    }
+
+    $scope.btnUpdate = function (item) {
+        console.log(item,'item edit')
+    }
+
+    $scope.btnCancel = function () {
+        $scope.show_edit = true
+    }
+
+    // FUNCTIONS JAVASCRIPT
 
     function getParameterByName(name, url) {
         if (!url) url = window.location.href;

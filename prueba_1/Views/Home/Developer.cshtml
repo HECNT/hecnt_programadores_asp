@@ -1,8 +1,24 @@
 ﻿<div class="container" ng-controller="homeCtrl" ng-init="initDev()"><br />
-    <ul class="list-group" ng-repeat="r_developer in s_developer">
-        <li class="list-group-item active"><strong>Developer :</strong>  {{r_developer.ID}}</li>
-        <li class="list-group-item"><strong>First Name :</strong> {{r_developer.FirstName}}</li>
-        <li class="list-group-item"><strong>Last Name :</strong>  {{r_developer.LastName}}</li>
-        <li class="list-group-item"><strong>Age :</strong> {{r_developer.Age}}</li>
-    </ul>
+    <div class="row">
+        <div class="col-lg-6">
+            <ul class="list-group" ng-repeat="r_developer in s_developer" ng-show="show_edit">
+                <li class="list-group-item active"><strong>Developer :</strong>  {{r_developer.ID}}</li>
+                <li class="list-group-item"><strong>First Name :</strong> {{r_developer.FirstName}}</li>
+                <li class="list-group-item"><strong>Last Name :</strong>  {{r_developer.LastName}}</li>
+                <li class="list-group-item"><strong>Age :</strong> {{r_developer.Age}}</li>
+            </ul>
+            <button class="btn btn-primary" ng-click="btnEditShow()" ng-show="show_edit">Edit</button>
+            <form  ng-hide="show_edit" ng-repeat="r_developer in s_developer">
+                <label>First Name</label><br />
+                <input type="text" class="form-control" ng-model="r_developer.FirstName" /><br />
+                <label>Last Name</label><br />
+                <input type="text" class="form-control" ng-model="r_developer.LastName" /><br />
+                <label>Age</label><br />
+                <input type="text" class="form-control" ng-model="r_developer.Age" /><br />
+                <button class="btn btn-success" ng-click="btnUpdate(r_developer)">Update</button>
+                <button class="btn btn-danger" ng-click="btnCancel()">Cancel</button>
+            </form>
+        </div>
+        <div class="col-lg-6"></div>
+    </div>
 </div>
